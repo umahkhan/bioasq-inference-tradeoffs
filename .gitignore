@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+.env
+*.faiss
+# prompt caches are rebuilt automatically; scratch holds smoke tests and superseded runs
+results/prompts_*.json
+results/scratch/
